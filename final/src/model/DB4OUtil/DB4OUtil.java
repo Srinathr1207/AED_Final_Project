@@ -11,10 +11,6 @@ import com.db4o.config.EmbeddedConfiguration;
 import com.db4o.ta.TransparentPersistenceSupport;
 import java.nio.file.Paths;
 
-/**
- *
- * @author Jay
- */
 public class DB4OUtil {
 
     private static final String FILENAME = Paths.get("db1.db4o").toAbsolutePath().toString();// path to the data store
