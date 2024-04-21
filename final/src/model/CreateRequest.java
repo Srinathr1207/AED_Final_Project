@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package UI.Requests;
 
 //import javax.*;
@@ -35,10 +31,6 @@ import javax.swing.JOptionPane;
 import model.Requests.RequestDirectory;
 import model.UserAccount.UserAccount;
 
-/**
- *
- * @author siddh
- */
 public class CreateRequest extends javax.swing.JPanel {
 
     /**
