@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package model;
 import java.util.ArrayList;
 import model.FireDepartment.FactoryFireDispatchUnitDirectory;
@@ -28,10 +24,7 @@ import model.Hospital.AmbulanceServiceDirectory;
 import model.ShelterHome.ShelterDirectory;
 
 
-/**
- *
- * @author Jay
- */
+
 public class EcoSystem extends Organization{
     
     private static EcoSystem business;
