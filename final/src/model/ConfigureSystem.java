@@ -3,10 +3,6 @@ package model;
 import model.UserAccount.UserAccount;
 import model.Role.SystemAdmin;
 
-/**
- *
- * @author Jay
- */
 public class ConfigureSystem {
     
     public static EcoSystem configure(){
