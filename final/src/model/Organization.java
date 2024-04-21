@@ -1,7 +1,4 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package model;
 
 
@@ -10,10 +7,7 @@ import java.util.ArrayList;
 import model.Role.Role;
 import model.WorkRequest.WorkRequestDirectory;
 
-/**
- *
- * @author Jay
- */
+
 public abstract class Organization {
 
     private String fullName;
